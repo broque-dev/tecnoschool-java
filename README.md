@@ -28,7 +28,6 @@ Este proyecto fue desarrollado como parte de mi formación en Ingeniería de Sis
 4. Ejecutar el proyecto desde el IDE
 
 ## Autor
-Brandon Roque Mendoza
 
 **Brandon Roque Mendoza**
 Estudiante de Ingeniería de Sistemas
